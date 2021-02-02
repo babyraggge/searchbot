@@ -7,7 +7,7 @@ class Config:
     URL = "http://vis-www.cs.umass.edu/lfw/images/"
 
     img_size = (45, 45)
-    n_neighbors = 2
+    n_neighbors = 1
     display_distance = True
     search = False
 
