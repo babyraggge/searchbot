@@ -2,7 +2,7 @@
 A telegram bot that searches for a similar face image using a variational autoencoder.
 
 ## About bot
-SearchFace bot was created as part of the final project of the Deep Learning School.
+**SearchFacebot** was created as part of the final project of the Deep Learning School.
 It was trained on the [open dataset "Marked faces in the wild"](http://vis-www.cs.umass.edu/lfw/).
 
 A database of face photographs designed for studying the problem of unconstrained face recognition.
