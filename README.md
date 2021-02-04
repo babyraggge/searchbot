@@ -14,5 +14,4 @@ Bot based on the variational autoencoder model with the dimension latent space o
 
 Model scheme:
 
-Convalution variational autoencoder:
 ![alt text](materials/autoencoder.png "variational autoencoder model")
