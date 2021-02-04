@@ -2,7 +2,7 @@ from misc import dp, vae, bot, nn
 from handlers.keyboards import keyboards
 from config import Messages
 import io
-from utils import core
+from services import core
 from aiogram import types
 
 

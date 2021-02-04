@@ -11,3 +11,8 @@ Each face has been labeled with the name of the person pictured.
 
 ## About model
 Bot based on the variational autoencoder model with the dimension latent space of 20. Convolutional neural network model is used for feature extraction.
+
+Model scheme:
+
+Convalution variational autoencoder:
+![alt text](materials/autoencoder.png "variational autoencoder model")
